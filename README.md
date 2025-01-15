@@ -1,0 +1,1 @@
+This repository contains an example of Ada code that demonstrates potential errors related to array indexing and output formatting. The `bug.ada` file showcases the original code with the potential issues, while `bugSolution.ada` presents a corrected version.
